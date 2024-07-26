@@ -1,0 +1,80 @@
+repo_name: vladdou/Learning-Ansible-2.X-Third-Edition
+report_id: 7b40d67aec19213b0a1b7e76683ae18c
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-26T05:36:02+00:00'
+requested_by: Packt-ITService
+provider: github
+branch: master
+detected_tools_count: 6
+tools:
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/vladdou/Learning-Ansible-2.X-Third-Edition
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/vladdou/Learning-Ansible-2.X-Third-Edition
+  detection_source: Repo Metadata
+- name: Ansible
+  description: Radically simple configuration-management, application deployment,
+    task-execution, and multi-node orchestration engine
+  website_url: http://www.ansible.com/
+  license: GPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/663/ElOjna20.png
+  detection_source_url: https://github.com/vladdou/Learning-Ansible-2.X-Third-Edition/blob/master/Chapter04/ansible.cfg
+  detection_source: Chapter04/ansible.cfg
+  last_updated_by: Fabio Alessandro Locati
+  last_updated_on: 2019-01-20 14:18:47.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/vladdou/Learning-Ansible-2.X-Third-Edition
+  detection_source: Repo Metadata
+- name: Vagrant
+  description: A tool for building and distributing development environments
+  website_url: http://www.vagrantup.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Management
+  image_url: https://img.stackshare.io/service/768/150px-Vagrant.png
+  detection_source_url: https://github.com/vladdou/Learning-Ansible-2.X-Third-Edition/blob/master/Chapter02/Vagrantfile
+  detection_source: Chapter02/Vagrantfile
+  last_updated_by: Fabio Alessandro Locati
+  last_updated_on: 2019-01-20 14:18:47.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/vladdou/Learning-Ansible-2.X-Third-Edition
+  detection_source: Repo Metadata
